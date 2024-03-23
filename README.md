@@ -1,4 +1,4 @@
-﻿# Simple C Program Tester1
+﻿# Simple C Program Tester12
 
 Simple testing utility for C programs. 
 
