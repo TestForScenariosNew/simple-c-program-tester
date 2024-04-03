@@ -1,4 +1,4 @@
-﻿# Simple C Program Test
+﻿# Simple C Program Test1
 
 Simple testing utility for C programs. 
 
